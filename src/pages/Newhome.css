@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* ====================
+         HEADER
+====================== */
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #363a42;
+  height: 290px;
+  width: 100%;
+}
+
+.space {
+  width: 100%;
+  height: 568px;
+  background-color: #d8d8d8;
+}
+
+object {
+  display: block;
+  width: 80px;
+  object-fit: contain;
+}
+
+.shape::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 30%;
+  top: 0;
+  left: 0;
+  background-color: #efe0f6;
+  clip-path: polygon(0 0, 100% 0%, 100% 70%, 0 100%);
+  z-index: -1;
+}
+
+.home-info {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 7px;
+  width: 100%;
+}
+
+#para {
+  display: flex;
+  text-transform: none;
+  height: 30rem;
+  font-size: 43px;
+  width: 100%;
+  font-weight: bold;
+  margin-top: 4.5rem;
+  line-height: 3rem;
+}
+.stars {
+  background-color: white;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  font-size: small;
+}
+
+.star-1 {
+  margin-top: 5%;
+  margin-left: 30%;
+}
+
+.star-2 {
+    margin-top: 5%;
+    margin-left: 55%;
+}
+.star-3 {
+    margin-top: 4%;
+    margin-left: 30%;
+}
+.star-4 {
+    margin-top: 4%;
+    margin-left: 70%;
+}
+.star-5 {
+    margin-top: 2 ;
+    margin-left: 40%;
+}
+.star-6 {
+    margin-top: 2;
+    margin-left: 10%;
+}
+.star-7 {
+    margin-top: 2;
+    margin-left: 30%;
+}
+.star-8 {
+    margin-top: 1%;
+    margin-left: 97%;
+}
+.star-9 {
+    margin-top: 1%;
+    margin-left: 70%;
+}
+.star-10 {
+    margin-top: 0;
+    margin-left: -1%;
+}
+
+
+
+
+/* =================
+        BODY
+==================== */
+
+.content {
+    margin: 40px 0 0 17px;
+    height: 568px;
+}
+
+.content2 {
+    font-size: 18px;
+}
+
+.content3 {
+    margin-top: 15px;
+}
+
+.btn {
+    background-color: #08263e;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px;
+    width: 80px;
+    margin-top: 10px;
+    height: 35px;
+    cursor: pointer;
+
+}
+
+#value {
+ margin-top: 40px;
+}
+
+.values {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+ul {
+    font-size: 19px;
+    list-style-type: none;
+}
+li {
+    margin-top: 20px;
+}
+
+/* ===================
+    footer
+================== */
+
+.buttom {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: content;
+    font-size: 16px;
+    margin: 7px;
+}
