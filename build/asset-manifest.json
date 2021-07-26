@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web_app-main/static/css/main.73b6be7a.chunk.css",
+    "main.js": "/web_app-main/static/js/main.38a83ae8.chunk.js",
+    "main.js.map": "/web_app-main/static/js/main.38a83ae8.chunk.js.map",
+    "runtime-main.js": "/web_app-main/static/js/runtime-main.e7ba7561.js",
+    "runtime-main.js.map": "/web_app-main/static/js/runtime-main.e7ba7561.js.map",
+    "static/js/2.7b29fdf8.chunk.js": "/web_app-main/static/js/2.7b29fdf8.chunk.js",
+    "static/js/2.7b29fdf8.chunk.js.map": "/web_app-main/static/js/2.7b29fdf8.chunk.js.map",
+    "static/js/3.a9cca80f.chunk.js": "/web_app-main/static/js/3.a9cca80f.chunk.js",
+    "static/js/3.a9cca80f.chunk.js.map": "/web_app-main/static/js/3.a9cca80f.chunk.js.map",
+    "index.html": "/web_app-main/index.html",
+    "static/css/main.73b6be7a.chunk.css.map": "/web_app-main/static/css/main.73b6be7a.chunk.css.map",
+    "static/js/2.7b29fdf8.chunk.js.LICENSE.txt": "/web_app-main/static/js/2.7b29fdf8.chunk.js.LICENSE.txt",
+    "static/media/tiptopp_logo.acf983a5.svg": "/web_app-main/static/media/tiptopp_logo.acf983a5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7ba7561.js",
+    "static/js/2.7b29fdf8.chunk.js",
+    "static/css/main.73b6be7a.chunk.css",
+    "static/js/main.38a83ae8.chunk.js"
+  ]
+}
